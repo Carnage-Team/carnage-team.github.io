@@ -8,4 +8,4 @@ Hi, dear visitor, this is Stark0de. I´m proud to offer you my infosec knowledge
 
 <h2><a href="https://stark0de.github.io"><strong>Enjoy!</strong></a></h2>
 <a href="https://github.com/stark0de"><img border="0" alt="Github" src="logo.jpg" width="54" height="54"></a>
- <iframe src="https://stark0de.github.io/badge.html" width="220" height="50"></iframe> 
+ <iframe src="https://stark0de.github.io/badge.html" width="240" height="70" scrolling="no"></iframe> 
