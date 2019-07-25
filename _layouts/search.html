@@ -3,8 +3,12 @@ layout: default
 ---
 
 <!-- Html Elements for Search -->
+<h1><strong>Search Posts</strong></h1>
+
+
+
 <div id="search-container">
-<input type="text" id="search-input" placeholder="Introduce what you're looking for">
+<input type="text" size="100" id="search-input" placeholder="Introduce what you're looking for">
 <ul id="results-container"></ul>
 </div>
 
@@ -19,5 +23,5 @@ SimpleJekyllSearch({
   json: '/search.json'
 })
   searchResultTemplate: '<div><a href="{url}"><h1>{title}</h1></a><span>{date}</span></div>',
-  noResultsText ("No result found!")
+  noResultsText ("No result found, try again")
 </script>
