@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Abusing privileges in access tokens
+title: Abusing Windows tokens privileges
 ---
-**Abusing privileges in access tokens**
+**Abusing Windows tokens privileges**
 
 Hi there. The other day I was reading about Windows security features (like always) and I started to poke around Windows&#39; access tokens. And particularly the privileges included in some of those tokens.
 
