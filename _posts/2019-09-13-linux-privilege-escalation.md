@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Privilege escalation in Linux: going for the kill
+title: Privilege escalation in Linux
 ---
 **Privilege escalation in Linux: going for the kill**
 
