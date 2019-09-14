@@ -14,19 +14,16 @@ First of all I normally start going to /tmp and downloading two scripts: LinEnum
 
 Personally I prefer the smart enum script, because of the format question:answer (is very easy to read). There is a lot of information there, and it may directly guide you to the vulnerability you are looking for, but other times you may need to do manual checks.
 
-1. Executable abuse
-
 1. SUDO abuse
 2. SUID/GUID abuse
-
-1. Kernel Exploits
-2. Credentials
-3. Cronjobs/services running as root
-4. Capabilities
-5. Writeable things
-6. NFS shares
-7. Services running at localhost
-8. Docker, Lxd groups
+3. Kernel Exploits
+4. Credentials
+5. Cronjobs/services running as root
+6. Capabilities
+7. Writeable things
+8. NFS shares
+9. Services running at localhost
+10. Docker, Lxd groups
 
 **SUDO abuse**
 
@@ -104,3 +101,5 @@ References:
 -https://bitvijays.github.io/LFC-VulnerableMachines.html#linux-privilege-escalation
 
 -https://percussiveelbow.github.io/linux-privesc/
+
+-https://guif.re/linuxeop
