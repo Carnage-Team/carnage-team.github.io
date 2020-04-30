@@ -15,3 +15,8 @@ Hi, dear visitor, this is Stark0de. I´m proud to offer you my infosec knowledge
   <textarea name="message" placeholder="Write your message"></textarea>
   <button type="submit">Send Message</button>
 </form>
+
+ ![alt](https://1.bp.blogspot.com/-3put8phdZSA/XPVWMNypATI/AAAAAAAAAag/HRiGT5flqfsYaYb-lVkc-5kBZSkGiCrUQCPcBGAYYCw/s1600/offsec-student-certified-emblem-rgb-oscp.png)
+ ![alt](https://miro.medium.com/max/2000/1*RsWtbuY8uvRDNqWSfedVtw.png)
+ ![alt](https://d3j0t7vrtr92dk.cloudfront.net/ihacklabs/1555951691_logo-crest-accredited-1.png?)
+ ![alt](https://www.pentesteracademy.com/img/redteamprofessional.png)
