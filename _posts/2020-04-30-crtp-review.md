@@ -46,7 +46,9 @@ I was so tired to celebrate enough that day, but the following..that was a party
 My takeaways from both the course and the exam:
 
 1) Don't rush through the course, if you have enough time, do the Learning Objectives multiple times.
+
 2) Ensure you know all the concepts, the situations you are presented in the course are just examples, the techniques can be used in multiple ways, and even combining some together.
+
 3) Enumerate, enumerate, enumerate. CherryTree is your friend.
 
 After all the effort I can now say I am a Certified Red Team Professional :)
