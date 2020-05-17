@@ -16,7 +16,7 @@ As you can see here: <https://github.com/edx/edx-platform> the whole platform is
 ![alt text](https://pic.accessify.com/thumbnails/777x423/d/docs.edx.org.png "test")
 
 So after some time digging in the docs I found this:
-![](python.png)
+![](../../../python.png)
 
 So it turns out that if you create an account in the OpenEDX platform instance and go to the Studio, create a Course, Create a Unit in the course and add a Problem. And if you choose Custom Python-Evaluated problem and use a payload such as:
 ~~~~
@@ -46,7 +46,7 @@ def test_add(expect,ans):
 And click the Submit button, you can execute code in the machine.
 
 
-![](openedx-rce.gif)
+![](../../../openedx-rce.gif)
 
 So when I discovered this, I contacted EDX’s security team and they told me that there is a mitigation for this kind of issues, but it is not enabled by default:
 
