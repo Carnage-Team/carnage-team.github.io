@@ -46,7 +46,7 @@ def test_add(expect,ans):
 And click the Submit button, you can execute code in the machine.
 
 
-![alt text](https://s6.gifyu.com/images/openedx-rce.md.gif "whatever")
+![alt text](https://s6.gifyu.com/images/openedx-rce.gif "whatever")
 
 So when I discovered this, I contacted EDX’s security team and they told me that there is a mitigation for this kind of issues, but it is not enabled by default:
 
