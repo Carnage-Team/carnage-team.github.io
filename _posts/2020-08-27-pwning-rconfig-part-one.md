@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pwning rConfig: part I
+title: Pwning rConfig part I
 ---
 **Pwning rConfig: part one**
 
