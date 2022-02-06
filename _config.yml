@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Stark0de Sanctuary
-tagline:          'An infosec blog'
-description:      '~$whoami'
+title:            Carnage Team
+tagline:          'A vuln research blog'
+description:      'Hackers hacking stuff'
 url:              https://stark0de.github.io
 baseurl:          /
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,8 +15,8 @@ baseurl:          /
                   # sidebar_blog_link below.
 
 author:
-  name:           'Stark0de'
-  url:            https://twitter.com/fongandrewc
+  name:           'Carnage Team'
+  url:            https://twitter.com/Carnage_Team1
 
 paginate:         5
 # paginate_path:    '/page:num'
