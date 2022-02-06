@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About us
 sidebar_link: true
 ---
 
